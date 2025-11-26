@@ -14,12 +14,6 @@ Skills: HTML / CSS / TAILWIND / JS / REACT / EXPRESS.JS
 - 💬 Ask me about Web Developer 
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul61)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmudul61&show_icons=true)  
-
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mahmudul61/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Mahmudul61)  
